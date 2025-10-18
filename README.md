@@ -1,4 +1,3 @@
-<!-- 🌈 Yuhan's GitHub Profile README -->
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=800&color=00FFF0&center=true&vCenter=true&width=520&lines=Hey!+I'm+Yuhan+👋;AI+%26+Data+Science+Student;Curious+Coder+|+Visual+Thinker;Welcome+to+my+World+💫" alt="Typing SVG" />
