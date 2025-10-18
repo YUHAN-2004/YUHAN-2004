@@ -38,27 +38,6 @@ When I’m not coding, you’ll find me exploring design, perfecting dashboards,
 ---
 
 <h2 align="center">
-   Projects
-</h2>
-
-<p align="center">
-  <a href="https://github.com/YUHAN-2004/Drug-Discovery">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YUHAN-2004&repo=Drug-Discovery&theme=react&bg_color=141321&title_color=00FFF0&text_color=ffffff&icon_color=00FFF0&hide_border=false" />
-  </a>
-  <a href="https://github.com/YUHAN-2004/Fake-News-Detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YUHAN-2004&repo=Fake-News-Detection&theme=react&bg_color=141321&title_color=FF79C6&text_color=ffffff&icon_color=FF79C6&hide_border=false" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/YUHAN-2004/Provider-Network-Optimization">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YUHAN-2004&repo=Provider-Network-Optimization&theme=react&bg_color=141321&title_color=00FFA3&text_color=ffffff&icon_color=00FFA3&hide_border=false" />
-  </a>
-</p>
-
----
-
-<h2 align="center">
    GitHub Stats
 </h2>
 
