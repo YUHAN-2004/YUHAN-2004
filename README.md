@@ -31,24 +31,6 @@ When I’m not coding, you’ll probably find me tweaking visuals, experimenting
 
 ---
 
-###  Projects  
-
-<p align="center">
-  <a href="https://github.com/YUHAN-2004/Drug-Discovery">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YUHAN-2004&repo=Drug-Discovery&theme=radical&hide_border=false" />
-  </a>
-  <a href="https://github.com/YUHAN-2004/Fake-News-Detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YUHAN-2004&repo=Fake-News-Detection&theme=radical&hide_border=false" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/YUHAN-2004/Provider-Network-Optimization">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YUHAN-2004&repo=Provider-Network-Optimization&theme=radical&hide_border=false" />
-  </a>
-</p>
-
----
 
 ### GitHub Stats  
 <p align="center">
